@@ -76,5 +76,12 @@ _진혜진, 『 IT CookBook, 네트워크 개론(3판) 』, 한빛아카데미(2
     ![휴일을 제외한 24년 01월 월별 로그인수](https://github.com/k-r-1/api-backend-comento/assets/83098949/802fc304-8061-4448-b137-75e3d610abdd)
   - 부서별 월별 로그인 수 <br>
     ![부서별월별로그인수](https://github.com/k-r-1/api-backend-comento/assets/83098949/056a85a3-2348-4f9b-9014-a35bfe5518df)   
-- 완성된 API를 가지고 2차 과제로 진행했던 API 가이드 문서를 보완 <br>
+- 완성된 API를 가지고 2차 과제로 진행했던 API 가이드 문서를 보완 <br><br>
+
+1. requestinfo <br><br>
+![requestinfo 데이터](https://github.com/k-r-1/api-backend-comento/assets/83098949/a68f93b8-38b0-44dc-b377-80155766445f)
+2. user <br><br>
+![user 데이터](https://github.com/k-r-1/api-backend-comento/assets/83098949/3bf7de01-c226-4264-8ad2-31ab45c76fd4)
+3. holidays <br><br>
+![holidays 데이터](https://github.com/k-r-1/api-backend-comento/assets/83098949/17430d4b-9ad9-4fec-a6b7-2ac6d8519341)
 
