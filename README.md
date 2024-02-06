@@ -87,7 +87,7 @@ user <br><br>
 holidays <br><br>
 ![holidays 데이터](https://github.com/k-r-1/api-backend-comento/assets/83098949/17430d4b-9ad9-4fec-a6b7-2ac6d8519341)
 <br><br>
-statisticMapper.xml
+statisticMapper.xml <br><br>
 ![StatisticMapper](https://github.com/k-r-1/api-backend-comento/assets/83098949/2c8d2226-ae8a-413f-abcb-66a558671264)
 
 
