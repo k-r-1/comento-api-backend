@@ -63,6 +63,7 @@ _진혜진, 『 IT CookBook, 네트워크 개론(3판) 』, 한빛아카데미(2
 
 ## 4차 : 최종
 🔗 [4차 과제](https://github.com/k-r-1/api-backend-comento/tree/main/settingweb_boot)
+🔗 [API 가이드 문서](https://github.com/k-r-1/api-backend-comento/blob/main/%5B4%EC%B0%A8%5D%20API%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EB%AC%B8%EC%84%9C.docx)
 <br><br>
 - 3차 과제에서 작성한 API와 SQL(5가지)를 중심으로 API를 개발 <br>
   - 월별 접속자 수 <br>
@@ -76,5 +77,4 @@ _진혜진, 『 IT CookBook, 네트워크 개론(3판) 』, 한빛아카데미(2
   - 부서별 월별 로그인 수 <br>
     ![부서별월별로그인수](https://github.com/k-r-1/api-backend-comento/assets/83098949/056a85a3-2348-4f9b-9014-a35bfe5518df)   
 - 완성된 API를 가지고 2차 과제로 진행했던 API 가이드 문서를 보완 <br>
-🔗 [API 가이드 문서](https://github.com/k-r-1/api-backend-comento/blob/main/%5B4%EC%B0%A8%5D%20API%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EB%AC%B8%EC%84%9C.docx)
 
