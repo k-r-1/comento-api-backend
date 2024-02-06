@@ -61,7 +61,7 @@ _진혜진, 『 IT CookBook, 네트워크 개론(3판) 』, 한빛아카데미(2
 - 샘플 데이터를 DB table로 작성하고 table에 insert <br><br>
 ![3-3  20년도 로그인수 API](https://github.com/k-r-1/api-backend-comento/assets/83098949/49d76a06-44ee-436f-8adf-b967a1ca206f)
 
-## 4차 : 최종
+## 4차 : SW 활용 현황 API 구현 및 API 가이드 문서 보완
 🔗 [4차 과제](https://github.com/k-r-1/api-backend-comento/tree/main/settingweb_boot)
 🔗 [API 가이드 문서](https://github.com/k-r-1/api-backend-comento/blob/main/%5B4%EC%B0%A8%5D%20API%20%EA%B0%80%EC%9D%B4%EB%93%9C%20%EB%AC%B8%EC%84%9C.docx)
 <br><br>
