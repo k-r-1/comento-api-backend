@@ -1,6 +1,9 @@
 # IT 대기업 현업 개발자와 함께 하는 백엔드 개발 실무
 > '2024. 01. 11 ~ 2024. 02. 08'
 
+[직무부트캠프 수료증.pdf](https://github.com/user-attachments/files/16476971/default.pdf)
+
+
 ## 1차 : 개발환경 세팅
 🔗 [1차 과제](https://github.com/k-r-1/api-backend-comento/tree/main/settingweb)
 > _Java: Oracle JDK 8 (version "1.8.0_221")_ <br>
