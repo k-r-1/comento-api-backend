@@ -2,7 +2,7 @@
 > '2024. 01. 11 ~ 2024. 02. 08'
 
 [수료증.pdf](https://github.com/user-attachments/files/16476971/default.pdf)
-
+![image](https://github.com/user-attachments/assets/5261c768-d765-41c7-87f7-582a169fa8a8)
 
 ## 1차 : 개발환경 세팅
 🔗 [1차 과제](https://github.com/k-r-1/api-backend-comento/tree/main/settingweb)
