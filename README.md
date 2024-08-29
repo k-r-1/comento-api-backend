@@ -3,7 +3,7 @@
 
 [수료증.pdf](https://github.com/user-attachments/files/16476971/default.pdf)
 ![image](https://github.com/user-attachments/assets/5261c768-d765-41c7-87f7-582a169fa8a8)
-
+<br><br>
 ## 배운 점 & 아쉬운 점 
 - **[API 개념 이해와 문서 작성]**
   - API 문서를 작성할 때 필요한 주요 개념들(요청 URL, 요청 파라미터, 응답 바디 등)에 대한 설명을 요청하고, 이 과정에서 API가 무엇인지, 이를 문서화하는 과정에서 어떤 것들이 필요한지 이해했다.
