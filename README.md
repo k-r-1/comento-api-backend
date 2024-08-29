@@ -1,8 +1,9 @@
 # IT 대기업 현업 개발자와 함께 하는 백엔드 개발 실무
 > '2024. 01. 11 ~ 2024. 02. 08'
 
-[수료증.pdf](https://github.com/user-attachments/files/16476971/default.pdf)
+[🔗comento](https://comento.kr/edu/learn/ITSW/SW%EA%B0%9C%EB%B0%9C-G601)
 ![image](https://github.com/user-attachments/assets/5261c768-d765-41c7-87f7-582a169fa8a8)
+[수료증.pdf](https://github.com/user-attachments/files/16476971/default.pdf)
 <br><br>
 ## 배운 점 & 아쉬운 점 
 - 처음 접하는 API 개발과 문서 작성이었기 때문에 부족한 부분이 많다고 느꼈다. 특히 API 가이드 문서를 작성하면서, 내가 만든 문서가 정말로 다른 사람들이 쉽게 이해할 수 있을지에 대해 고민하게 됐다. 비록 모든 것을 완벽하게 해내지는 못했지만, 이번 과정을 통해 Spring Boot, MyBatis, MariaDB와 같은 기술들에 대한 기초 지식을 습득하게 되어 다행이라고 생각한다. API 문서 작성 방법이나 관련된 내용을 더 깊이 공부해야겠다는 필요성을 느꼈다. 앞으로는 단순히 작동하는 코드뿐만 아니라, 다른 사람들이 쉽게 이해하고 사용할 수 있는 문서를 작성하는 방법을 지속적으로 학습하고 발전시켜 나가야겠다고 느꼈다.<br><br>
